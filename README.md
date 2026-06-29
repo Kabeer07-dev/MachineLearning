@@ -64,3 +64,51 @@ An in-depth exploratory data analysis of an insurance dataset to uncover pattern
 | Scikit-learn | Machine learning algorithms |
 
 ---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Python 3.x and the following packages installed:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+### Run the Notebooks
+
+```bash
+# Clone the repository
+git clone https://github.com/Kabeer0700-gif/MachineLearning.git
+
+# Navigate to the project directory
+cd MachineLearning
+
+# Launch Jupyter Notebook
+jupyter notebook
+```
+
+Then open any `.ipynb` file from the Jupyter interface in your browser.
+
+---
+
+## 📌 Topics Covered
+
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing & Cleaning
+- Feature Engineering
+- Classification Models
+- Model Evaluation Metrics
+- Data Visualization
+
+---
+
+## 👤 Author
+
+**Kabeer** — [@Kabeer0700-gif](https://github.com/Kabeer0700-gif)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
